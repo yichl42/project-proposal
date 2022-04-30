@@ -10,7 +10,7 @@ Please complete your proposal following the outline below.
 
 > Names of your team members and contact information (email addresses).
 
-Haochen Hu (haochh3@uw.edu), Eason Lin, Shammu Meyyappan (shammu53@uw.edu)
+Haochen Hu (haochh3@uw.edu), Eason Lin (yichl42@uw.edu), Shammu Meyyappan (shammu53@uw.edu)
 
 ### Date
 4/29/2022
@@ -37,7 +37,7 @@ Pandemic, Coronavirus, Covid-19, Health, Time-series data
 
 ## Proposal
 
-1. Introduction  
+1. Introduction
 
 > Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
 
@@ -57,9 +57,17 @@ Without considering the policy, we would like to know whether the decrease in th
 
 Other than this, we need to consider the different situation of each individual countries, so besides analyzing the seasons we need to consider the relationship between the outbreaks and the locations of countries in order to help people to learn more about covid and help the government to make decisions.
 
-2. Related Work  
+2. Related Work
 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
+
+* Our topic for the final project is researching daily Covid-19 cases(daily new cases and deaths, cumulative cases and deaths and etc.) as of 2022-03-17 for 225 countries based on the most up-to-date data and concluding the world pandemic situations.
+
+* Related work 1: *“Adobe Acrobat: PDF Edit, Convert, Sign Tools.” Google, Google, chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2022-01-05/02-COVID-Su-508.pdf.* (the reports to VAERS after primary series Pfizer-BioNTech COVID-19 vaccination in children and adolescents ages 5–11 and 12–15 years and after Pfizer-BioNTech COVID-19 booster vaccination in adolescents ages 16–24 years)
+
+* Related work 2: *Alyssa Bilinski, PhD. “SARS-COV-2 Testing, Screening, and Surveillance Strategies among Simulated School Populations.” JAMA Pediatrics, JAMA Network, 20 Apr. 2022, https://jamanetwork.com/journals/jamapediatrics/fullarticle/2791525?utm_source=twitter&amp;utm_campaign=content-shareicons&amp;utm_content=article_engagement&amp;utm_medium=social&amp;utm_term=042122#.YmFTHHlkjjc.twitter.* (we all know the COVID-19 testing is extremely important for personal health and epidemic prevention and control, but what's the pros and cons(i.e. what are the costs and benefits) of COVID-19 testing to students?)
+
+* Related work 3: *Define_me, https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(22)00060-1/fulltext* (the physical effects and diseases caused by COVID)
 
 3. The Dataset
 > Where did you find the data? Please include a link to the data source
