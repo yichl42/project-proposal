@@ -4,11 +4,11 @@ Please complete your proposal following the outline below.
 
 ## Project title
 
-Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
+> Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
 
 ### Authors
 
-Names of your team members and contact information (email addresses).
+> Names of your team members and contact information (email addresses).
 
 Haochen Hu (haochh3@uw.edu), Eason Lin, 
 
