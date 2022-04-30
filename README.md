@@ -2,16 +2,17 @@
 
 Please complete your proposal following the outline below.
 
-## Project title
-
-Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
+## Worldwide COVID-19 Statistics
 
 ### Authors
 
 Names of your team members and contact information (email addresses).
+Shammu Meyyappan: shammu53@uw.edu
+
 ### Date
 
 Winter 2022
+
 ## Abstract
 
 No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
@@ -33,14 +34,9 @@ No more than three sentences that summarize your project. Focus on the very most
 
 3. The Dataset
 
-> Where did you find the data? Please include a link to the data source  
-> Who collected the data?  
-> How was the data collected or generated?  
-> Why was the data collected?  
->How many observations (rows) are in your data?  
-> How many features (columns) are in the data?  
-> What, if any, ethical questions or questions of power do you need to consider when working with this data?  
-> What are possible limitations or problems with this data?   (at least 200 words)
+> We found [our data](https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset) through a search on Kaggle, a public database where users can view and upload data sets. The data was scraped by Joseph Assaker, an artificial intelligence engineer from Lebanon, on March 17, 2022 from [Worldometer](https://www.worldometers.info/coronavirus/), a trusted live-tracker of coronavirus data through official government reports. The data was collected in an attempt to more easily monitor and predict future trends regarding COVID-19, both on a worldwide scale and within specific countries.
+>> "As for the reason for me building this dataset, it's because I couldn't get my hands on an easily digestible and up-to-date dataset of Covid-19, so, I decided to build my own using Python and web scraping techniques... Going through this data, Kagglers can visualize various trends in their own country, or compare several countries." - Joseph Assaker
+> The data contains 7 columns tracking the date, country, cumulative total cases, daily new cases, active cases, cumulative total deaths, and daily new deaths, respectively. It contains 170,917 rows, each representing one of the 762 days from February 15, 2020, (when 223 of the 225 countries represented in this data began tracking COVID-19 statistics) up to March 17, 2022 (when the data was last scraped). Two exceptions to this are China, which began tracking its data from January 22, 2020, and Palau, which only began tracking on August 25, 2021. Ethically, we must consider how the ramifications of the COVID-19 pandemic extend far beyond some statistical observations, and the lives lost to it can never truly be represented by a single column in a data set. Inconsistent or inaccurate reporting of COVID-19 cases and deaths are the two biggest potential limitations of this data, as different countries may have different requirements for listing something as a case of or death caused by COVID-19. Additionally, certain countries or governments may also be manipulating their own reports to appear more or less successful in their responses to the pandemic for political or financial gain.
 
 4. Implications
 
