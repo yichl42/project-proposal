@@ -40,23 +40,23 @@ Pandemic, Coronavirus, Covid-19, Health, Time-series data
 
 > Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
 
-    1. When are the top-3 most daily new cases that occurred 
+1. When are the top-3 most daily new cases that occurred 
     
-    2. After the first covid breakout, when do daily new cases start to reduce
+2. After the first covid breakout, when do daily new cases start to reduce
     
-    3. Is the time between outbreaks related to seasons?
+3. Is the time between outbreaks related to seasons?
     
-    4. Is the time used to reduce the covid cases related to the country?
+4. Is the time used to reduce the covid cases related to the country?
 	
-    5. Is the relationship between the number of new people per day and the number of deaths per day proportional.
+5. Is the relationship between the number of new people per day and the number of deaths per day proportional.
     
-    We want to do research on the relationship between the covid outbreaks and seasons, so we need to record the time of each breakout, and we need to analyze the time of breakout, and relate it to seasons.
+We want to do research on the relationship between the covid outbreaks and seasons, so we need to record the time of each breakout, and we need to analyze the time of breakout, and relate it to seasons.
     
-    Without considering the policy, we would like to know whether the decrease in the number of new people per day is related to seasonal changes or climate, so besides recording the time of outbreaks, we also record the time of reduction at the same time. We want to know if the death is related to time or the daily new cases.
+Without considering the policy, we would like to know whether the decrease in the number of new people per day is related to seasonal changes or climate, so besides recording the time of outbreaks, we also record the time of reduction at the same time. We want to know if the death is related to time or the daily new cases.
     
-    Other than this, we need to consider the different situation of each individual countries, so besides analyzing the seasons we need to consider the relationship between the outbreaks and the locations of countries in order to help people to learn more about covid and help the government to make decisions.
+Other than this, we need to consider the different situation of each individual countries, so besides analyzing the seasons we need to consider the relationship between the outbreaks and the locations of countries in order to help people to learn more about covid and help the government to make decisions.
 
-1. Related Work  
+2. Related Work  
 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
