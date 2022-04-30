@@ -62,14 +62,14 @@ Other than this, we need to consider the different situation of each individual 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
 3. The Dataset
->Where did you find the data? Please include a link to the data source
-Who collected the data?
-How was the data collected or generated?
-Why was the data collected?
-How many observations (rows) are in your data?
-How many features (columns) are in the data?
-What, if any, ethical questions or questions of power do you need to consider when working with this data?
-What are possible limitations or problems with this data? (at least 200 words)
+> Where did you find the data? Please include a link to the data source
+> Who collected the data?
+> How was the data collected or generated?
+> Why was the data collected?
+> How many observations (rows) are in your data?
+> How many features (columns) are in the data?
+> What, if any, ethical questions or questions of power do you need to consider when working with this data?
+> What are possible limitations or problems with this data? (at least 200 words)
 
 We found [our data](https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset) through a search on Kaggle, a public database where users can view and upload data sets. The data was scraped by Joseph Assaker, an artificial intelligence engineer from Lebanon, on March 17, 2022 from [Worldometer](https://www.worldometers.info/coronavirus/), a trusted live-tracker of coronavirus data through official government reports. The data was collected in an attempt to more easily monitor and predict future trends regarding COVID-19, both on a worldwide scale and within specific countries.
 
