@@ -10,7 +10,7 @@ Give your project a concise, interesting title that summarizes the entirety of y
 
 Names of your team members and contact information (email addresses).
 
-Haochen Hu, Eason Lin, 
+Haochen Hu (haochh3@uw.edu), Eason Lin, 
 
 ### Date
 4/29/2022
